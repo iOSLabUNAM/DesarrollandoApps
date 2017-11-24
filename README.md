@@ -1,2 +1,2 @@
-# DesarrollandoApps-
-Material de apoyo, y creado durante el curso 
+# DesarrollandoApps
+Material de apoyo y ejercicios de los alumnos.
